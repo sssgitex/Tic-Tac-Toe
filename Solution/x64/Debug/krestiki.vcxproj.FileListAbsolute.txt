@@ -1,0 +1,4 @@
+F:\repos\krestiki\krestiki\x64\Debug\krestiki.vcxproj.AssemblyReference.cache
+F:\repos\krestiki\krestiki\x64\Debug\krestiki.vcxproj.SuggestedBindingRedirects.cache
+F:\repos\krestiki\krestiki\x64\Debug\krestiki.MainForm.resources
+F:\repos\krestiki\krestiki\x64\Debug\krestiki.vcxproj.GenerateResource.cache
